@@ -1,4 +1,5 @@
-![Tests](https://github.com/Priyansh-Sharma-305/QA-Test-API/actions/workflows/tests.yml/badge.svg)
+[![Tests](https://github.com/Priyansh-Sharma-305/QA-Test-API/actions/workflows/tests.yml/badge.svg)](https://github.com/Priyansh-Sharma-305/QA-Test-API/actions/workflows/tests.yml)
+
 
 # QA/Test Developer Mini Project (FastAPI)
 
