@@ -1,3 +1,5 @@
+![Tests](https://github.com/Priyansh-Sharma-305/QA-Test-API/actions/workflows/tests.yml/badge.svg)
+
 # QA/Test Developer Mini Project (FastAPI)
 
 This project demonstrates a small REST API built with FastAPI, automated API testing using pytest, and a clean project structure suitable for CI/CD workflows.
